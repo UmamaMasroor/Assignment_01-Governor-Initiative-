@@ -9,5 +9,5 @@ console.log("Lowercase: " + person_name.toLowerCase());
 console.log("Uppercase: " + person_name.toUpperCase());
 
 //  titlecase
-console.log("Titlecase: " + person_name.charAt(0,1).toUpperCase() + person_name.slice(1).toLowerCase());
+console.log("Titlecase: " + person_name.charAt(0, 1).toUpperCase() + person_name.slice(1).toLowerCase());
 
